@@ -1,4 +1,5 @@
 # Lab 4 - Interactive Thematic Web Map
+
 ## Population Density Across the 26 Counties in the Republic of Ireland
 
 ### Description
